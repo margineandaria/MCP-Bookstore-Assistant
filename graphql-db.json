@@ -1,0 +1,42 @@
+{
+  "autori": [
+    { "id": 1, "nume": "J.K. Rowling",            "nationalitate": "Britanica", "genPreferat": "Fantasy",   "anDebut": 1997 },
+    { "id": 2, "nume": "Sarah J. Maas",           "nationalitate": "Americana", "genPreferat": "Fantasy",   "anDebut": 2012 },
+    { "id": 3, "nume": "Rebecca Yarros",          "nationalitate": "Americana", "genPreferat": "Fantasy",   "anDebut": 2013 },
+    { "id": 4, "nume": "SenLinYu",                "nationalitate": "Necunoscuta", "genPreferat": "Fantasy", "anDebut": 2020 },
+    { "id": 5, "nume": "Holly Black",             "nationalitate": "Americana", "genPreferat": "Fantasy",   "anDebut": 1999 },
+    { "id": 6, "nume": "Jennifer L. Armentrout",  "nationalitate": "Americana", "genPreferat": "Fantasy",   "anDebut": 2011 },
+    { "id": 7, "nume": "Colleen Hoover",          "nationalitate": "Americana", "genPreferat": "Romance",   "anDebut": 2011 },
+    { "id": 8, "nume": "Ali Hazelwood",           "nationalitate": "Italiana",  "genPreferat": "Romance",   "anDebut": 2021 },
+    { "id": 9, "nume": "Mihail Drumeș",           "nationalitate": "Romana",    "genPreferat": "Romance",   "anDebut": 1929 },
+    { "id": 10, "nume": "George Călinescu",       "nationalitate": "Romana",    "genPreferat": "Romance",   "anDebut": 1936 },
+    { "id": 11, "nume": "Mircea Eliade",          "nationalitate": "Romana",    "genPreferat": "Romance",   "anDebut": 1930 },
+    { "id": 12, "nume": "Cella Serghi",           "nationalitate": "Romana",    "genPreferat": "Romance",   "anDebut": 1950 },
+    { "id": 13, "nume": "Gelu Duminică",          "nationalitate": "Romana",    "genPreferat": "Biografii", "anDebut": 2008 },
+    { "id": 14, "nume": "Anne Frank",             "nationalitate": "Germana",   "genPreferat": "Biografii", "anDebut": 1947 },
+    { "id": 15, "nume": "Tatiana Niculescu",      "nationalitate": "Romana",    "genPreferat": "Biografii", "anDebut": 2015 },
+    { "id": 16, "nume": "James Clear",            "nationalitate": "Americana", "genPreferat": "Biografii", "anDebut": 2018 },
+    { "id": 17, "nume": "Mark Manson",            "nationalitate": "Americana", "genPreferat": "Biografii", "anDebut": 2016 }
+  ],
+  "carti": [
+    { "id": 1,  "titlu": "Harry Potter și Piatra Filozofală", "gen": "Fantasy",   "anPublicare": 1997, "pret": 45, "autoriId": 1 },
+    { "id": 2,  "titlu": "A Court of Thorns and Roses",       "gen": "Fantasy",   "anPublicare": 2015, "pret": 70, "autoriId": 2 },
+    { "id": 3,  "titlu": "Throne of Glass",                   "gen": "Fantasy",   "anPublicare": 2012, "pret": 65, "autoriId": 2 },
+    { "id": 4,  "titlu": "A patra aripă (Fourth Wing)",       "gen": "Fantasy",   "anPublicare": 2023, "pret": 85, "autoriId": 3 },
+    { "id": 5,  "titlu": "Alchemised",                        "gen": "Fantasy",   "anPublicare": 2022, "pret": 60, "autoriId": 4 },
+    { "id": 6,  "titlu": "Prințul Nemilos",                   "gen": "Fantasy",   "anPublicare": 2018, "pret": 55, "autoriId": 5 },
+    { "id": 7,  "titlu": "Din sânge și cenușă",               "gen": "Fantasy",   "anPublicare": 2020, "pret": 75, "autoriId": 6 },
+    { "id": 8,  "titlu": "It Ends with Us",                   "gen": "Romance",   "anPublicare": 2016, "pret": 55, "autoriId": 7 },
+    { "id": 9,  "titlu": "Verity",                            "gen": "Romance",   "anPublicare": 2018, "pret": 50, "autoriId": 7 },
+    { "id": 10, "titlu": "Ipoteza iubirii",                   "gen": "Romance",   "anPublicare": 2021, "pret": 49, "autoriId": 8 },
+    { "id": 11, "titlu": "Invitația la vals",                 "gen": "Romance",   "anPublicare": 1958, "pret": 35, "autoriId": 9 },
+    { "id": 12, "titlu": "Cartea nunții",                     "gen": "Romance",   "anPublicare": 1936, "pret": 40, "autoriId": 10 },
+    { "id": 13, "titlu": "Maitreyi",                          "gen": "Romance",   "anPublicare": 1933, "pret": 38, "autoriId": 11 },
+    { "id": 14, "titlu": "Pânza de păianjen",                 "gen": "Romance",   "anPublicare": 1957, "pret": 42, "autoriId": 12 },
+    { "id": 15, "titlu": "Vine țiganul și te fură",           "gen": "Biografii", "anPublicare": 2012, "pret": 45, "autoriId": 13 },
+    { "id": 16, "titlu": "Jurnalul Annei Frank",              "gen": "Biografii", "anPublicare": 1947, "pret": 35, "autoriId": 14 },
+    { "id": 17, "titlu": "Regina Maria: Ultima dorință",      "gen": "Biografii", "anPublicare": 2019, "pret": 50, "autoriId": 15 },
+    { "id": 18, "titlu": "Atomic Habits",                     "gen": "Biografii", "anPublicare": 2018, "pret": 65, "autoriId": 16 },
+    { "id": 19, "titlu": "Arta subtilă a nepăsării",          "gen": "Biografii", "anPublicare": 2016, "pret": 40, "autoriId": 17 }
+  ]
+}

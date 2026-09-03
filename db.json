@@ -1,0 +1,216 @@
+{
+  "locatii": [
+    {
+      "id": 1,
+      "numeLibrarie": "Cărturești Iulius Mall",
+      "adresa": "Strada Alexandru Vaida Voevod 53B, Cluj-Napoca",
+      "program": "10:00 - 22:00"
+    },
+    {
+      "id": 2,
+      "numeLibrarie": "Cărturești Vivo",
+      "adresa": "Strada Avram Iancu 492-500, Florești",
+      "program": "10:00 - 22:00"
+    },
+    {
+      "id": 3,
+      "numeLibrarie": "Cărturești Zola",
+      "adresa": "Strada Émile Zola 2, Cluj-Napoca",
+      "program": "10:00 - 22:00"
+    },
+    {
+      "id": 4,
+      "numeLibrarie": "Cărturești Casa Hintz",
+      "adresa": "Piața Unirii 28, Cluj-Napoca",
+      "program": "10:00 - 21:00"
+    },
+    {
+      "id": 5,
+      "numeLibrarie": "Cărturești Platinia",
+      "adresa": "Calea Mănăștur 2-6, Cluj-Napoca",
+      "program": "10:00 - 22:00"
+    }
+  ],
+  "carti": [
+    {
+      "id": 1,
+      "titlu": "Harry Potter și Piatra Filozofală",
+      "autor": "J.K. Rowling",
+      "gen": "Fantasy",
+      "pret": 45,
+      "stoc": 8,
+      "locatieId": 1
+    },
+    {
+      "id": 2,
+      "titlu": "A Court of Thorns and Roses",
+      "autor": "Sarah J. Maas",
+      "gen": "Fantasy",
+      "pret": 70,
+      "stoc": 3,
+      "locatieId": 2
+    },
+    {
+      "id": 3,
+      "titlu": "Throne of Glass",
+      "autor": "Sarah J. Maas",
+      "gen": "Fantasy",
+      "pret": 65,
+      "stoc": 4,
+      "locatieId": 5
+    },
+    {
+      "id": 4,
+      "titlu": "A patra aripă (Fourth Wing)",
+      "autor": "Rebecca Yarros",
+      "gen": "Fantasy",
+      "pret": 85,
+      "stoc": 2,
+      "locatieId": 4
+    },
+    {
+      "id": 5,
+      "titlu": "Alchemised",
+      "autor": "SenLinYu",
+      "gen": "Fantasy",
+      "pret": 60,
+      "stoc": 5,
+      "locatieId": 3
+    },
+    {
+      "id": 6,
+      "titlu": "Prințul Nemilos",
+      "autor": "Holly Black",
+      "gen": "Fantasy",
+      "pret": 55,
+      "stoc": 6,
+      "locatieId": 1
+    },
+    {
+      "id": 7,
+      "titlu": "Din sânge și cenușă",
+      "autor": "Jennifer L. Armentrout",
+      "gen": "Fantasy",
+      "pret": 75,
+      "stoc": 3,
+      "locatieId": 2
+    },
+    {
+      "id": 8,
+      "titlu": "It Ends with Us",
+      "autor": "Colleen Hoover",
+      "gen": "Romance",
+      "pret": 55,
+      "stoc": 12,
+      "locatieId": 3
+    },
+    {
+      "id": 9,
+      "titlu": "Verity",
+      "autor": "Colleen Hoover",
+      "gen": "Romance",
+      "pret": 50,
+      "stoc": 5,
+      "locatieId": 1
+    },
+    {
+      "id": 10,
+      "titlu": "Ipoteza iubirii",
+      "autor": "Ali Hazelwood",
+      "gen": "Romance",
+      "pret": 49,
+      "stoc": 6,
+      "locatieId": 5
+    },
+    {
+      "id": 11,
+      "titlu": "Invitația la vals",
+      "autor": "Mihail Drumeș",
+      "gen": "Romance",
+      "pret": 35,
+      "stoc": 10,
+      "locatieId": 4
+    },
+    {
+      "id": 12,
+      "titlu": "Cartea nunții",
+      "autor": "George Călinescu",
+      "gen": "Romance",
+      "pret": 40,
+      "stoc": 4,
+      "locatieId": 2
+    },
+    {
+      "id": 13,
+      "titlu": "Maitreyi",
+      "autor": "Mircea Eliade",
+      "gen": "Romance",
+      "pret": 38,
+      "stoc": 7,
+      "locatieId": 3
+    },
+    {
+      "id": 14,
+      "titlu": "Pânza de păianjen",
+      "autor": "Cella Serghi",
+      "gen": "Romance",
+      "pret": 42,
+      "stoc": 8,
+      "locatieId": 5
+    },
+    {
+      "id": 15,
+      "titlu": "Vine țiganul și te fură",
+      "autor": "Gelu Duminică",
+      "gen": "Biografii",
+      "pret": 45,
+      "stoc": 7,
+      "locatieId": 3
+    },
+    {
+      "id": 16,
+      "titlu": "Jurnalul Annei Frank",
+      "autor": "Anne Frank",
+      "gen": "Biografii",
+      "pret": 35,
+      "stoc": 5,
+      "locatieId": 2
+    },
+    {
+      "id": 17,
+      "titlu": "Regina Maria: Ultima dorință",
+      "autor": "Tatiana Niculescu",
+      "gen": "Biografii",
+      "pret": 50,
+      "stoc": 3,
+      "locatieId": 1
+    },
+    {
+      "id": 18,
+      "titlu": "Atomic Habits",
+      "autor": "James Clear",
+      "gen": "Biografii",
+      "pret": 65,
+      "stoc": 15,
+      "locatieId": 4
+    },
+    {
+      "id": 19,
+      "titlu": "Arta subtilă a nepăsării",
+      "autor": "Mark Manson",
+      "gen": "Biografii",
+      "pret": 40,
+      "stoc": 9,
+      "locatieId": 5
+    },
+    {
+      "titlu": "Crimă și pedeapsă",
+      "stoc": 5,
+      "autor": "Dostoievski",
+      "pret": 60,
+      "id": 20,
+      "gen": "Romance",
+      "locatieId": 1
+    }
+  ]
+}

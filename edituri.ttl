@@ -1,0 +1,111 @@
+@prefix ex: <http://proiect-daria-larisa.ro/> .
+@prefix schema: <https://schema.org/> .
+
+ex:Ed_Arthur a schema:Organization ;
+    schema:name "Editura Arthur" .
+
+ex:Grupul_Rao a schema:Organization ;
+    schema:name "Grupul Editorial RAO" .
+
+ex:Litera a schema:Organization ;
+    schema:name "Editura Litera" .
+
+ex:Bookzone_Ed a schema:Organization ;
+    schema:name "Bookzone" .
+
+ex:Ed_Epica a schema:Organization ;
+    schema:name "Editura Epica" .
+
+ex:Nemira a schema:Organization ;
+    schema:name "Editura Nemira" .
+
+ex:Humanitas a schema:Organization ;
+    schema:name "Editura Humanitas" .
+
+ex:Lifestyle_Pub a schema:Organization ;
+    schema:name "Lifestyle Publishing" .
+
+ex:Autor1 a schema:Person ;
+    schema:identifier "1" ;
+    schema:name "J.K. Rowling" ;
+    schema:affiliation ex:Ed_Arthur .
+
+ex:Autor2 a schema:Person ;
+    schema:identifier "2" ;
+    schema:name "Sarah J. Maas" ;
+    schema:affiliation ex:Grupul_Rao .
+
+ex:Autor3 a schema:Person ;
+    schema:identifier "3" ;
+    schema:name "Rebecca Yarros" ;
+    schema:affiliation ex:Litera .
+
+ex:Autor4 a schema:Person ;
+    schema:identifier "4" ;
+    schema:name "SenLinYu" ;
+    schema:affiliation ex:Bookzone_Ed .
+
+ex:Autor5 a schema:Person ;
+    schema:identifier "5" ;
+    schema:name "Holly Black" ;
+    schema:affiliation ex:Litera .
+
+ex:Autor6 a schema:Person ;
+    schema:identifier "6" ;
+    schema:name "Jennifer L. Armentrout" ;
+    schema:affiliation ex:Bookzone_Ed .
+
+ex:Autor7 a schema:Person ;
+    schema:identifier "7" ;
+    schema:name "Colleen Hoover" ;
+    schema:affiliation ex:Ed_Epica .
+
+ex:Autor8 a schema:Person ;
+    schema:identifier "8" ;
+    schema:name "Ali Hazelwood" ;
+    schema:affiliation ex:Nemira .
+
+ex:Autor9 a schema:Person ;
+    schema:identifier "9" ;
+    schema:name "Mihail Drumeș" ;
+    schema:affiliation ex:Litera .
+
+ex:Autor10 a schema:Person ;
+    schema:identifier "10" ;
+    schema:name "George Călinescu" ;
+    schema:affiliation ex:Humanitas .
+
+ex:Autor11 a schema:Person ;
+    schema:identifier "11" ;
+    schema:name "Mircea Eliade" ;
+    schema:affiliation ex:Humanitas .
+
+ex:Autor12 a schema:Person ;
+    schema:identifier "12" ;
+    schema:name "Cella Serghi" ;
+    schema:affiliation ex:Litera .
+
+ex:Autor13 a schema:Person ;
+    schema:identifier "13" ;
+    schema:name "Gelu Duminică" ;
+    schema:affiliation ex:Bookzone_Ed .
+
+ex:Autor14 a schema:Person ;
+    schema:identifier "14" ;
+    schema:name "Anne Frank" ;
+    schema:affiliation ex:Humanitas .
+
+ex:Autor15 a schema:Person ;
+    schema:identifier "15" ;
+    schema:name "Tatiana Niculescu" ;
+    schema:affiliation ex:Humanitas .
+
+ex:Autor16 a schema:Person ;
+    schema:identifier "16" ;
+    schema:name "James Clear" ;
+    schema:affiliation ex:Lifestyle_Pub .
+
+ex:Autor17 a schema:Person ;
+    schema:identifier "17" ;
+    schema:name "Mark Manson" ;
+    schema:affiliation ex:Lifestyle_Pub .
